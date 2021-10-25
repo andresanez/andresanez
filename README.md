@@ -1,5 +1,6 @@
 ### Hola, Soy Andrés Añez 👋
 
+![andrés añez - ingeniero industrial](https://user-images.githubusercontent.com/81836507/138625008-8a299492-ef47-4c19-a44c-a7e8bb1f9ce1.png)
 
 Ingeniero industrial, estudiante de una Maestría en Ingeniería con énfasis industrial, con experiencia en análisis profesional de datos, desarrollo de modelos estadísticos y diseños de experimentos, logrando construir una serie de análisis robustos y dashboards de indicadores que logran generar un impacto positivo en la toma de decisiones estratégicas.  
   
