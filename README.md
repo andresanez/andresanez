@@ -1,5 +1,6 @@
 ### Hola, Soy Andrés Añez 👋
 
+
 Ingeniero industrial, estudiante de una Maestría en Ingeniería con énfasis industrial, con experiencia en análisis profesional de datos, desarrollo de modelos estadísticos y diseños de experimentos, logrando construir una serie de análisis robustos y dashboards de indicadores que logran generar un impacto positivo en la toma de decisiones estratégicas.  
   
 Con habilidad para implementar herramientas de inteligencia de negocios, capacidad de liderar equipos de trabajo e implementar mecanismos de innovación que impulsen el mejoramiento de la compañía.  
